@@ -1,0 +1,10 @@
+{
+  "QA": {
+    "base_url": "https://automationteststore.com",
+    "proxy": null
+  },
+  "DEV": {
+    "base_url": "https://automationteststore.com",
+    "proxy": null
+  }
+}
